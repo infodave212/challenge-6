@@ -1,0 +1,13 @@
+body{
+    background-color: skyblue;
+}
+h1{font-size:100px;
+
+}
+#weatherResults{
+    font-size:40px;
+}
+#searchHistory{
+    font-size: 30px;
+    font-style: italic;
+}
